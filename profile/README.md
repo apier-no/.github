@@ -19,6 +19,7 @@ The public sandbox answers for the fictional test company `999999999` without a 
 | [apier-mcp](https://github.com/apier-no/apier-mcp) | `@apier-no/mcp`, the npm proxy that connects stdio MCP clients to the hosted Apier MCP server |
 | [apier-quickstart](https://github.com/apier-no/apier-quickstart) | Runnable examples in curl, TypeScript, Python and Go, and a comparison with Brreg's open APIs |
 | [apier-python](https://github.com/apier-no/apier-python) | Python client with no runtime dependencies |
+| [apier-receipt-verify](https://github.com/apier-no/apier-receipt-verify) | Checks an Apier certificate offline against the public JWKS, in Node and Python with no dependencies |
 | [n8n-nodes-apier](https://github.com/apier-no/n8n-nodes-apier) | n8n community node for signing authority and register changes |
 
 ## Links
